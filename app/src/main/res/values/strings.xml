@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IT20230760</string>
+    <string name="startbtn">START</string>
+    <string name="stopbtn">STOP</string>
+</resources>
